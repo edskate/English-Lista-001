@@ -1,5 +1,6 @@
 # English Lista 001
- English Lista
+ English Lista Lista
+ ##  Emoji :
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |  `:🪈:`    |   `:🐸:`  |  `:🐟:`   |  `:🦎:`   |   `:👻:`  |
